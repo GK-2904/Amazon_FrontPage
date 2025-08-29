@@ -1,3 +1,3 @@
 # Amazon_FrontPage
-This is my first project
+This is Amazon Website Clone.
 
